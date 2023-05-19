@@ -1,12 +1,15 @@
 # MARS-ABC
+
 Terms
 Aim: Combining MARS and ABC to optimize hydrological models
 MARS: Multivariate adaptive regression splines
 ABC: Approximate Bayesian computation
 
+
 Data
 6561.csv: raw data for training MARS
 10000.csv: raw data for validating MARS
+
 
 source code
 MARS_training.py: train MARS
