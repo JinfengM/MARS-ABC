@@ -1,8 +1,8 @@
 # MARS-ABC
 
-Terms
-
 Aim: Combining MARS and ABC to optimize hydrological models
+
+Terms
 
 MARS: Multivariate adaptive regression splines
 
